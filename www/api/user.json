@@ -1,0 +1,20 @@
+{
+  "state": 200,
+  "msg": "个人信息",
+  "data": {
+    "name": "曾惠霖",
+    "num": "20191012",
+    "logo":"https://zenghuilin.tpddns.cn:7777/logo.png",
+    "age": 2000,
+    "qq": 1057890843,
+    "tel": "15766653890",
+    "school": "广东科学技术职业学院",
+    "github": "https://github.com/lonzee",
+    "blog": "https://zenghuilin.tpddns.cn:7777",
+    "address":{
+      "prov":"广东",
+      "city":"珠海",
+      "detail":"广东省珠海市香洲区"
+    }
+  }
+}
